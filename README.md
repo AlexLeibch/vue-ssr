@@ -1,19 +1,13 @@
-# last-foodsoul
+<h1 align="center">Test task</h1>
+App with Vue 3 SSR + Pinia + TypeScript
 
-## Project setup
+## Project Setup
 ```
 npm install
+npm run pressr
 ```
 
-### Compiles and hot-reloads for development
+### Launch Project
 ```
-npm run serve
+npm run ssr
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
